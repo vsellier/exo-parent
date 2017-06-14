@@ -37,9 +37,6 @@
 [submodule "jcr"]
 	path = jcr
 	url = ssh://git@github.com/exodev/jcr
-[submodule "jcr-services"]
-		path = jcr-services
-		url = ssh://git@github.com/exodev/jcr-services
 [submodule "gatein-portal"]
 	path = gatein-portal
 	url = ssh://git@github.com/exodev/gatein-portal
