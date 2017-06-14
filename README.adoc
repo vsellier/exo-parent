@@ -1,0 +1,19 @@
+# eXo Parent
+
+Allow to clone all PLF and Supported addons repositories for development of eXo Platform
+
+## Full clone
+
+```
+git clone --recursive https://github.com/vsellier/exo-parent
+```
+
+or
+```
+git clone https://github.com/vsellier/exo-parent
+cd exo-parent
+git submodule init
+git submodule update
+```
+
+TODO: Other git actions
