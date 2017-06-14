@@ -76,3 +76,42 @@
 [submodule "wiki"]
 	path = wiki
 	url = ssh://git@github.com/exodev/wiki
+[submodule "platform"]
+	path = platform
+	url = ssh://git@github.com/exodev/platform
+[submodule "supported-addons/answers"]
+	path = supported-addons/answers
+	url = ssh://git@github.com/exo-addons/answers
+[submodule "supported-addons/cas-addon"]
+	path = supported-addons/cas-addon
+	url = ssh://git@github.com/exo-addons/cas-addon
+[submodule "supported-addons/chat-application"]
+	path = supported-addons/chat-application
+	url = ssh://git@github.com/exo-addons/chat-application
+[submodule "supported-addons/cmis-addon"]
+	path = supported-addons/cmis-addon
+	url = ssh://git@github.com/exo-addons/cmis-addon
+[submodule "supported-addons/crash-addon"]
+	path = supported-addons/crash-addon
+	url = ssh://git@github.com/exo-addons/crash-addon
+[submodule "supported-addons/exo-es-embedded"]
+	path = supported-addons/exo-es-embedded
+	url = ssh://git@github.com/exo-addons/exo-es-embedded
+[submodule "supported-addons/openam-addon"]
+	path = supported-addons/openam-addon
+	url = ssh://git@github.com/exo-addons/openam-addon
+[submodule "supported-addons/saml2-addon"]
+	path = supported-addons/saml2-addon
+	url = ssh://git@github.com/exo-addons/saml2-addon
+[submodule "supported-addons/spnego-addon"]
+	path = supported-addons/spnego-addon
+	url = ssh://git@github.com/exo-addons/spnego-addon
+[submodule "supported-addons/wcm-template-pack"]
+	path = supported-addons/wcm-template-pack
+	url = ssh://git@github.com/exo-addons/wcm-template-pack
+[submodule "supported-addons/task"]
+	path = supported-addons/task
+	url = ssh://git@github.com/exo-addons/task
+[submodule "supported-addons/remote-edit"]
+	path = supported-addons/remote-edit
+	url = ssh://git@github.com/exo-addons/remote-edit
