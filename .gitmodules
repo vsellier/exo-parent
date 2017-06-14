@@ -1,0 +1,78 @@
+[submodule "addons-manager"]
+	path = addons-manager
+	url = ssh://git@github.com/exoplatform/addons-manager.git
+[submodule "calendar"]
+	path = calendar
+	url = ssh://git@github.com/exodev/calendar
+[submodule "cf-parent"]
+	path = cf-parent
+	url = ssh://git@github.com/exoplatform/cf-parent
+[submodule "docs-style"]
+	path = docs-style
+	url = ssh://git@github.com/exodev/docs-style
+[submodule "commons"]
+	path = commons
+	url = ssh://git@github.com/exodev/commons
+[submodule "core"]
+	path = core
+	url = ssh://git@github.com/exodev/core
+[submodule "gatein-dep"]
+	path = gatein-dep
+	url = ssh://git@github.com/exoplatform/gatein-dep
+[submodule "forum"]
+	path = forum
+	url = ssh://git@github.com/exodev/forum
+[submodule "gatein-pc"]
+	path = gatein-pc
+	url = ssh://git@github.com/exodev/gatein-pc
+[submodule "gatein-wci"]
+	path = gatein-wci
+	url = ssh://git@github.com/exodev/gatein-wci
+[submodule "integration"]
+	path = integration
+	url = ssh://git@github.com/exodev/integration
+[submodule "gatein-sso"]
+	path = gatein-sso
+	url = ssh://git@github.com/exodev/gatein-sso
+[submodule "jcr"]
+	path = jcr
+	url = ssh://git@github.com/exodev/jcr
+[submodule "jcr-services"]
+		path = jcr-services
+		url = ssh://git@github.com/exodev/jcr-services
+[submodule "gatein-portal"]
+	path = gatein-portal
+	url = ssh://git@github.com/exodev/gatein-portal
+[submodule "juzu"]
+	path = juzu
+	url = ssh://git@github.com/juzu/juzu
+[submodule "ecms"]
+	path = ecms
+	url = ssh://git@github.com/exodev/ecms
+[submodule "kernel"]
+	path = kernel
+	url = ssh://git@github.com/exodev/kernel
+[submodule "maven-depmgt-pom"]
+	path = maven-depmgt-pom
+	url = ssh://git@github.com/exoplatform/maven-depmgt-pom
+[submodule "platform-private-distributions"]
+	path = platform-private-distributions
+	url = ssh://git@github.com/exoplatform/platform-private-distributions
+[submodule "platform-private-trial-distributions"]
+	path = platform-private-trial-distributions
+	url = ssh://git@github.com/exoplatform/platform-private-trial-distributions
+[submodule "platform-public-distributions"]
+	path = platform-public-distributions
+	url = ssh://git@github.com/exoplatform/platform-public-distributions
+[submodule "platform-ui"]
+	path = platform-ui
+	url = ssh://git@github.com/exodev/platform-ui
+[submodule "social"]
+	path = social
+	url = ssh://git@github.com/exodev/social
+[submodule "ws"]
+	path = ws
+	url = ssh://git@github.com/exodev/ws
+[submodule "wiki"]
+	path = wiki
+	url = ssh://git@github.com/exodev/wiki
