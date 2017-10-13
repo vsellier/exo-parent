@@ -16,4 +16,10 @@ git submodule init
 git submodule update
 ```
 
+## Update repos
+
+```
+git submodules update --remote
+```
+
 TODO: Other git actions
