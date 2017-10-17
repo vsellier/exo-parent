@@ -150,3 +150,7 @@
 	path = supported-addons/remote-edit
 	url = ssh://git@github.com/exo-addons/remote-edit
 	branch = develop
+[submodule "enterprise-skin"]
+	path = enterprise-skin
+	url = ssh://git@github.com/exoplatform/enterprise-skin
+	branch = feature/enterprise-skin
