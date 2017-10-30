@@ -102,52 +102,52 @@
 	path = platform
 	url = ssh://git@github.com/exodev/platform
 	branch = develop
-[submodule "supported-addons/answers"]
-	path = supported-addons/answers
+[submodule "answers"]
+	path = answers
 	url = ssh://git@github.com/exo-addons/answers
 	branch = develop
-[submodule "supported-addons/cas-addon"]
-	path = supported-addons/cas-addon
+[submodule "cas-addon"]
+	path = cas-addon
 	url = ssh://git@github.com/exo-addons/cas-addon
 	branch = develop
-[submodule "supported-addons/chat-application"]
-	path = supported-addons/chat-application
+[submodule "chat-application"]
+	path = chat-application
 	url = ssh://git@github.com/exo-addons/chat-application
 	branch = develop
-[submodule "supported-addons/cmis-addon"]
-	path = supported-addons/cmis-addon
+[submodule "cmis-addon"]
+	path = cmis-addon
 	url = ssh://git@github.com/exo-addons/cmis-addon
 	branch = develop
-[submodule "supported-addons/crash-addon"]
-	path = supported-addons/crash-addon
+[submodule "crash-addon"]
+	path = crash-addon
 	url = ssh://git@github.com/exo-addons/crash-addon
 	branch = develop
-[submodule "supported-addons/exo-es-embedded"]
-	path = supported-addons/exo-es-embedded
+[submodule "exo-es-embedded"]
+	path = exo-es-embedded
 	url = ssh://git@github.com/exo-addons/exo-es-embedded
 	branch = develop
-[submodule "supported-addons/openam-addon"]
-	path = supported-addons/openam-addon
+[submodule "openam-addon"]
+	path = openam-addon
 	url = ssh://git@github.com/exo-addons/openam-addon
 	branch = develop
-[submodule "supported-addons/saml2-addon"]
-	path = supported-addons/saml2-addon
+[submodule "saml2-addon"]
+	path = saml2-addon
 	url = ssh://git@github.com/exo-addons/saml2-addon
 	branch = develop
-[submodule "supported-addons/spnego-addon"]
-	path = supported-addons/spnego-addon
+[submodule "spnego-addon"]
+	path = spnego-addon
 	url = ssh://git@github.com/exo-addons/spnego-addon
 	branch = develop
-[submodule "supported-addons/wcm-template-pack"]
-	path = supported-addons/wcm-template-pack
+[submodule "wcm-template-pack"]
+	path = wcm-template-pack
 	url = ssh://git@github.com/exo-addons/wcm-template-pack
 	branch = develop
-[submodule "supported-addons/task"]
-	path = supported-addons/task
+[submodule "task"]
+	path = task
 	url = ssh://git@github.com/exo-addons/task
 	branch = develop
-[submodule "supported-addons/remote-edit"]
-	path = supported-addons/remote-edit
+[submodule "remote-edit"]
+	path = remote-edit
 	url = ssh://git@github.com/exo-addons/remote-edit
 	branch = develop
 [submodule "enterprise-skin"]
