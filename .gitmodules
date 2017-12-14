@@ -153,4 +153,9 @@
 [submodule "enterprise-skin"]
 	path = enterprise-skin
 	url = ssh://git@github.com/exoplatform/enterprise-skin
-	branch = feature/enterprise-skin
+	branch = develop
+[submodule "web-conferencing"]
+	path = web-conferencing
+	url = ssh://git@github.com/exoplatform/web-conferencing
+	branch = develop
+
