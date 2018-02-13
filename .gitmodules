@@ -156,7 +156,7 @@
 	branch = develop
 [submodule "web-conferencing"]
 	path = web-conferencing
-	url = ssh://git@github.com/exoplatform/web-conferencing
+	url = ssh://git@github.com/exo-addons/web-conferencing
 	branch = develop
 [submodule "addons-parent-pom"]
 	path = addons-parent-pom
