@@ -158,6 +158,10 @@
 	path = web-conferencing
 	url = ssh://git@github.com/exo-addons/web-conferencing
 	branch = develop
+[submodule "maven-parent-pom"]
+	path = maven-parent-pom
+	url = ssh://git@github.com/exoplatform/maven-parent-pom
+	branch = develop
 [submodule "addons-parent-pom"]
 	path = addons-parent-pom
 	url = ssh://git@github.com/exo-addons/addons-parent-pom
