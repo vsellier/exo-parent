@@ -118,10 +118,6 @@
 	path = cmis-addon
 	url = ssh://git@github.com/exo-addons/cmis-addon
 	branch = develop
-[submodule "crash-addon"]
-	path = crash-addon
-	url = ssh://git@github.com/exo-addons/crash-addon
-	branch = develop
 [submodule "exo-es-embedded"]
 	path = exo-es-embedded
 	url = ssh://git@github.com/exo-addons/exo-es-embedded
