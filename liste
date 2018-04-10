@@ -1,0 +1,15 @@
+./calendar/pom.xml
+./platform-public-distributions/pom.xml
+./maven-depmgt-pom/pom.xml
+./commons/pom.xml
+./integration/pom.xml
+./platform/pom.xml
+./wiki/pom.xml
+./forum/pom.xml
+./social/pom.xml
+./platform-private-distributions/pom.xml
+./ecms/pom.xml
+./docs-style/pom.xml
+./enterprise-skin/pom.xml
+./platform-private-trial-distributions/pom.xml
+./platform-ui/pom.xml
