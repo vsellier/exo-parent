@@ -1,8 +1,8 @@
 #!/bin/bash -eu
 
-message = "message here"
+message="commit message here"
 
-list="$(git status | grep modified: | cut -f2 -d":" | cut -f1 -d"(" | grep content)"
+list="$(git status | grep modified: | cut -f2 -d":" | grep content | cut -f1 -d"(")"
 
 echo Commit projects ${list}
 echo Press enter to continue
@@ -18,7 +18,7 @@ do
 	echo OK ?
 	read
 	git add pom.xml
-	git commit -m "$message}"
+	git commit -m "${message}"
 	git pull --rebase
 	git push origin develop
 	cd ..
