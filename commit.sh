@@ -1,25 +1,15 @@
-#!/bin/bash -eu
+#!/bin/bash -x
 
-message="commit message here"
+projects=$(git status -s | grep -v -e "^A" -e "^M" | awk '{print $2}')
 
-list="$(git status | grep modified: | cut -f2 -d":" | grep content | cut -f1 -d"(")"
+MSG="$*"
 
-echo Commit projects ${list}
-echo Press enter to continue
-read
-
-for i in $list
+for p in $projects
 do
-	echo
-	echo $i
-	echo
-	cd $i
-	git diff
-	echo OK ?
-	read
-	git add pom.xml
-	git commit -m "${message}"
-	git pull --rebase
-	git push origin develop
-	cd ..
+  pushd $p
+  echo $p
+  git add -A
+  git commit -m "${MSG}"
+  gitk --all
+  popd
 done
