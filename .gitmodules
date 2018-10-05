@@ -167,3 +167,6 @@
 [submodule "push-notifications"]
 	path = push-notifications
 	url = git@github.com:exo-addons/push-notifications
+[submodule "lecko"]
+	path = lecko
+	url = git@github.com:exo-addons/lecko
