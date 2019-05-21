@@ -170,3 +170,12 @@
 [submodule "lecko"]
 	path = lecko
 	url = git@github.com:exo-addons/lecko
+[submodule "kudos"]
+	path = kudos
+	url = git@github.com:exo-addons/kudos.git
+[submodule "wallet"]
+	path = wallet
+	url = git@github.com:exo-addons/wallet.git
+[submodule "perk-store"]
+	path = perk-store
+	url = git@github.com:exo-addons/perk-store.git
