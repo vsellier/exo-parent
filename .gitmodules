@@ -74,10 +74,6 @@
 	path = platform-private-distributions
 	url = ssh://git@github.com/exoplatform/platform-private-distributions
 	branch = develop
-[submodule "platform-private-trial-distributions"]
-	path = platform-private-trial-distributions
-	url = ssh://git@github.com/exoplatform/platform-private-trial-distributions
-	branch = develop
 [submodule "platform-public-distributions"]
 	path = platform-public-distributions
 	url = ssh://git@github.com/exoplatform/platform-public-distributions
