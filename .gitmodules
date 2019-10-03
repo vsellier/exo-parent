@@ -181,3 +181,6 @@
 [submodule "news"]
 	path = news
 	url = git@github.com:exo-addons/news
+[submodule "onlyoffice"]
+	path = onlyoffice
+	url = git@github.com:exo-addons/onlyoffice
