@@ -187,3 +187,12 @@
 [submodule "digital-workplace"]
 	path = digital-workplace
 	url = git@github.com:exo-addons/digital-workplace
+[submodule "data-upgrade"]
+	path = data-upgrade
+	url = git@github.com:exo-addons/data-upgrade
+[submodule "layout-management"]
+	path = layout-management
+	url = git@github.com:exo-addons/layout-management
+[submodule "legacy-intranet"]
+	path = legacy-intranet
+	url = git@github.com:exo-addons/legacy-intranet
